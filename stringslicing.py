@@ -1,0 +1,10 @@
+s="ABC DEF GHI JKL"
+print(s[3:10])
+print(s[4:])
+print(s[3:10:])
+print(s[3:14:3])
+print(s[-12:-2])
+print(s[-11:])
+print(s[:-7:])
+print(s[-15:-2:-3])
+print(s[::-3])
